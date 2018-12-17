@@ -1,9 +1,5 @@
 # IMDb-sentiment-analysis
 
-## Documentation
-
-The following are instructions on how to run the different files.
-
 Setup
 ------------------
 All the data should be in the same folder as the python and matlab codes in order to run.
