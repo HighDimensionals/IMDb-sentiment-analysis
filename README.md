@@ -1,7 +1,7 @@
 # IMDb-sentiment-analysis
 
-Documentation
-------------------
+## Documentation
+
 The following are instructions on how to run the different files.
 
 Setup
