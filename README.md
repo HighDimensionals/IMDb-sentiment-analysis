@@ -1,4 +1,4 @@
-# IMDb-sentiment-analysis
+# Sentiment Analysis for IMDb movie reviews
 
 Setup
 ------------------
