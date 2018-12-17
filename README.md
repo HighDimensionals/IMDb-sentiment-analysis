@@ -4,12 +4,10 @@ Documentation
 ------------------
 The following are instructions on how to run the different files.
 
-------------------
 Setup
 ------------------
 All the data should be in the same folder as the python and matlab codes in order to run.
 
-------------------
 Requirements
 ------------------
 For python, the following packages should be installed
@@ -20,7 +18,6 @@ For python, the following packages should be installed
 - nltk
 - pandas
 
-------------------
 Preprocessing
 ------------------
 First step is to clean the data. For that purpose we have the clean_data.py script. It should be run as
